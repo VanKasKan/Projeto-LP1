@@ -1,0 +1,9 @@
+guga@gmail.com*Gusavo Alessandro*dog*25*triagem*0*2004*1
+guga@gmail.com*Gusavo Alessandro*dog*25*triagem*0*2005*1
+guga@gmail.com*gutravo alessandro de olveira araujo*dog*21*canal*400*3459*5
+gustavo@jhonson*gustavo*11133344442*15*ljdnsldjfnljds*0*13/04*1
+gustavo@jhonson*tavin*12345678901*16*limpeza*100*19/07*5
+gustavo@email*gustavo*11122233344*21*Limpeza*100*15/2*5
+gustavo@email*gustavo*11122233344*21*extracao*200*15/7*4
+gustavo@email*gustavo*11122233344*21*manutencao*125*19/6*5
+gustavo@email**11122233344*16*clareamento*250*25/01*3
